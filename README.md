@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking to collaborate on **Smart Contract Development**
 
-- 👨‍💻 All of my projects are available at [example.portfolio.link](example.portfolio.link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
