@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking to collaborate on **Smart Contract Development**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
